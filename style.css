@@ -1,0 +1,92 @@
+
+*{
+    text-decoration: none;
+ 
+}
+
+.ha{
+    display: flex;
+}
+.green{
+    color: green;
+}
+
+.navbar{
+    padding: 20px !important;
+}
+
+.nav-link{
+    font-size: 20px !important;
+    color: white;
+    font-weight: bold;
+    margin-left: 10px;
+
+}
+
+.nav-link:hover{
+    border-bottom: white 2px solid;
+    border-top: white 2px solid;
+    color: red;
+
+}
+
+
+.carousel-inner{
+        width: 1550px !important;
+        margin-top: 30px !important;
+        margin-left: 110px !important;
+}
+
+.juice>h1{
+    text-align: center;
+    font-size: 50px;
+    margin:50px 0 50px 0 ;
+}
+.navbar-text{
+    padding-left: 28% !important;
+    font-size: 50px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    color: white !important;
+
+}
+
+
+/* footer style */
+footer{
+    background-color: white;
+
+
+}
+div>h3{
+    text-align: center;
+    font-size: 50px;
+}
+.footer-icons{
+    text-decoration: none !important;
+    display: flex;
+    background-color: black;
+    margin-bottom: 0px;
+  justify-content: center !important;
+
+}
+
+.footer-icons>li{
+    
+    margin-left: 30px !important;
+    padding: 20px !important;
+    text-decoration: none !important;
+}
+
+
+.copy-right{
+    margin: 0;                             
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 40px;
+padding-left: 30px;
+    padding-top: 5px;
+
+}
+
